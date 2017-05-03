@@ -14,3 +14,15 @@ Suggestion in the latest book I am reading Practicing Rails
 * Database creation = Postgresql
 
 # serialize_ruby_on_rails
+
+Notes: Not much in this, I could not get url method to work 
+
+\]
+['?']
+\
+]["\
+=[]\
+/.'[;
+]/\'[
+]\
+]';l.,'
